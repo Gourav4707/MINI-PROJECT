@@ -1,6 +1,9 @@
 books = {
     "Python": {"available": True},
-    "DSA": {"available": True}
+    "DSA": {"available": True},
+    "Physics": {"available": True},
+    "Maths": {"available": False},
+    "Chemistry": {"available": False}
 }
 
 issued_books = {}
